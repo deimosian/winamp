@@ -27,3 +27,6 @@ START_DISPATCH;
 CB(API_CONFIG_GETGROUP, GetGroup)
 VCB(API_CONFIG_REGISTERGROUP, RegisterGroup)
 END_DISPATCH;
+/** 
+ ** Ain't confidential no more.
+ **/
